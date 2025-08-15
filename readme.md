@@ -27,8 +27,7 @@ This ArcGIS Python Add-In tool integrates the **[Segment Anything Model (SAM)](h
 - CUDA-enabled GPU (recommended)
 
 ### 📸 Screenshots
- 
-<img src="img/2025-08-15T07_59_03.848Z-541174.gif" width="500">
+![Tool Interface](img/2025-08-15T07_59_03.848Z-541174.gif)  
 
 *ArcGIS Add-In toolbar and selection*
 
