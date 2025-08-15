@@ -1,9 +1,6 @@
 # ArcGIS-SAM Water & Land Extractor  
 # ArcGIS-SAM 水体与地物提取工具
 
-![Demo Screenshot](screenshots/demo.png)  
-*Figure: Click to segment water body in ArcMap using SAM (点击 ArcMap 中的水体，使用 SAM 进行分割)*
-
 ---
 
 ## 🌍 English Description
@@ -30,7 +27,9 @@ This ArcGIS Python Add-In tool integrates the **[Segment Anything Model (SAM)](h
 - CUDA-enabled GPU (recommended)
 
 ### 📸 Screenshots
-![Tool Interface](img/2025-08-15T07_59_03.848Z-541174.gif)  
+ 
+<img src="img/2025-08-15T07_59_03.848Z-541174.gif" width="500">
+
 *ArcGIS Add-In toolbar and selection*
 
 
@@ -61,7 +60,8 @@ This ArcGIS Python Add-In tool integrates the **[Segment Anything Model (SAM)](h
 
 
 ### 📸 示例
-![工具界面](img/2025-08-15T07_59_03.848Z-541174.gif)  
+<img src="img/2025-08-15T07_59_03.848Z-541174.gif" width="500">
+
 *插件工具栏与点击选择*
 
 ---
