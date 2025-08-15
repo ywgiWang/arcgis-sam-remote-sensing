@@ -60,8 +60,7 @@ This ArcGIS Python Add-In tool integrates the **[Segment Anything Model (SAM)](h
 
 
 ### 📸 示例
-<img src="img/2025-08-15T07_59_03.848Z-541174.gif" width="500">
-
+![工具界面](img/2025-08-15T07_59_03.848Z-541174.gif)  
 *插件工具栏与点击选择*
 
 ---
